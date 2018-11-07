@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+}
+form {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+#loading {
+  margin: 0 auto;
+  text-align: center;
+}
